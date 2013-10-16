@@ -348,6 +348,7 @@ function usage() {
 	echo "	-o/--only_show:	Only show what will happen"
 	echo "	-q/--quiet:	Nothing will display if no error happen" 
 	exit 1
+	
 }
  
 ############################MAIN################################
